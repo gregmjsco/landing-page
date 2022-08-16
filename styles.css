@@ -100,3 +100,31 @@ button {
 .section1 button {
     border: none;
 }
+
+
+
+
+
+
+
+main {
+    padding: 0em 13em;
+}
+
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+
+}
+
+.square {
+    border: 4px solid #3882F6;
+    width: 150px;
+    height: 150px;
+    border-radius: 4px;
+
+}
