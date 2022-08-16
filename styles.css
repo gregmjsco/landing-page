@@ -32,3 +32,29 @@ header div {
     flex: 1;
     padding: 20px;
 }
+
+.section1 {
+    background-color:#1f2937;
+}
+
+.section1 .content {
+    display: flex;
+}
+
+.section1 .left-side {
+    margin: 24px 48px;
+}
+
+.section1 h1 {
+    font-size: 40px;
+    font-family: 'Roboto', extra-bold, sans-serif;
+    color: #F9FAF8;
+}
+
+.section1 p {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: #E5E7EB;
+}
+
+
